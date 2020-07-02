@@ -1,0 +1,37 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Quantidade de dígitos dos primeiros 25 números de Fermat
+Gerado pela função numero_de_digitos do modulo aritmetica.py
+
+Escrito por Magrini, L.A. & Baroni, M. P. M. A.
+            magrini@ifsp.edu.br & mariana.baroni@ifsp.edu.br
+
+Gerado em 07/2020
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+F0  tem         1 dígito
+F1  tem         1 dígito
+F2  tem         2 dígitos
+F3  tem         3 dígitos
+F4  tem         5 dígitos
+F5  tem        10 dígitos
+F6  tem        20 dígitos
+F7  tem        39 dígitos
+F8  tem        78 dígitos
+F9 tem        155 dígitos
+F10 tem       309 dígitos
+F11 tem       617 dígitos
+F12 tem     1.234 dígitos
+F13 tem     2.467 dígitos
+F14 tem     4.933 dígitos
+F15 tem     9.865 dígitos
+F16 tem    19.729 dígitos
+F17 tem    39.457 dígitos
+F18 tem    78.914 dígitos
+F19 tem   157.827 dígitos
+F20 tem   315.653 dígitos
+F21 tem   631.306 dígitos
+F22 tem 1.262.612 dígitos
+F23 tem 2.525.223 dígitos
+F24 tem 5.050.446 dígitos
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
